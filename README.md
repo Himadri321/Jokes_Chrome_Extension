@@ -1,2 +1,2 @@
-# Jokes_Chrome_Extention
-Click on the extention to get a random joke.
+
+Click on the extention to get a random joke. This is made by using basic HTML, CSS and JavaScript.
