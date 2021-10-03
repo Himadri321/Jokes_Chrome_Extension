@@ -1,1 +1,2 @@
-# Jokes_Chrome_Extension
+# Jokes_Chrome_Extention
+Click on the extention to get a random joke.
